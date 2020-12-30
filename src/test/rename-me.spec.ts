@@ -9,7 +9,7 @@
 // // We are using the Mocha test framework. See https://mochajs.org for more info. Write some tests. Enjoy!
 //
 //     // Here's your first Mocha test: make sure Mocha works properly.
-//     it('', function() {
+//     it('Mocha and Chai are running properly', function() {
 //         assert.isTrue(false);
 //     });
 //
