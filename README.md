@@ -10,5 +10,5 @@ This repo will get you started on your next TypeScript project. To use it, I fol
     Run 'npm install'     Don't ask again
   
 - Select ``Run 'npm install'``.
-- Open file ``src/test/renameme.spec.ts``. Admire its 0 lines of executable code. Remind yourself that 0 lines of code means you have 0 bugs in your code. Congratulate yourself. You rock!
+- Create a new test file ``src/test/renameme.spec.ts``. Admire its 0 lines of executable code. Remind yourself that 0 lines of code means you have 0 bugs in your code. Congratulate yourself. You rock!
 - Enjoy.
